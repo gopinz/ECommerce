@@ -10,6 +10,7 @@ namespace ECommerce
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome");
+            Console.WriteLine("Welcome2");
             
         }
     }
